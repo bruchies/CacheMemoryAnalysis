@@ -1,0 +1,15 @@
+Política de Escrita: 1
+Tamanho da Linha: 128
+Número de Linhas: 16384
+Associatividade: 4
+Tempo de Acesso: 10
+Política de Substituição: LRU
+Tempo de Leitura da Memória Principal: 60
+Tempo de Escrita da Memória Principal: 60
+Total de Endereços: 51200
+Leituras: 2084
+Escritas: 515
+Leituras da Memória Principal: 2084
+Escritas da Memória Principal: 511
+Taxa de Acerto: 0.9492
+Tempo Médio de Acesso: 13.0457 ns
